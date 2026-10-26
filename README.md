@@ -1,7 +1,7 @@
 # Olá, eu sou Guilherme 👋
 
-- 🎓 Estudando: **Cursando Análise e Desenvolvimento de Sistemas**
-- 🌱 Aprendendo: **Focando em JavaScript**
+- Estudando: **Cursando Análise e Desenvolvimento de Sistemas**
+- Aprendendo: **Focando em JavaScript**
 
 ### Linguagens
 ![Linguagens](https://skillicons.dev/icons?i=js)
