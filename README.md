@@ -2,7 +2,7 @@
   <img height="170" alt="Estatísticas do GitHub"
        src="https://github-readme-stats.vercel.app/api?username=GuilhermeCruzzz790&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
   <img height="170" alt="Linguagens mais usadas"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCruzzz790&layout=compact&theme=draculat&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCruzzz790&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <picture>
