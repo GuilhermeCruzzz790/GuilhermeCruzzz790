@@ -1,16 +1,18 @@
-Eai, eu sou o Guilherme 👋
+# Olá, eu sou Guilherme 👋
 
- - Cursando Análise e Desenvolvimento de Sistemas 
- - Aprofundando em arquitetura de aplicações e boas práticas de desenvolvimento
- - Inglês intermediário (B1)
- 
-Tecnologias
+- 🎓 Estudando: **Cursando Análise e Desenvolvimento de Sistemas**
+- 🌱 Aprendendo: **Focando em JavaScript**
 
-TypeScript JavaScript PHP
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-React HTML5 CSS3
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://simpleicons.org/icons/css.svg)
 
-Git GitHub 
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
   <img height="170" alt="Estatísticas do GitHub"
