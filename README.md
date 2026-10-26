@@ -1,3 +1,17 @@
+Eai, eu sou o Guilherme 👋
+
+ - Cursando Análise e Desenvolvimento de Sistemas 
+ - Aprofundando em arquitetura de aplicações e boas práticas de desenvolvimento
+ - Inglês intermediário (B1)
+ 
+Tecnologias
+
+TypeScript JavaScript PHP
+
+React HTML5 CSS3
+
+Git GitHub 
+
 <div align="center">
   <img height="170" alt="Estatísticas do GitHub"
        src="https://github-readme-stats.vercel.app/api?username=GuilhermeCruzzz790&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
